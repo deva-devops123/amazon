@@ -1,3 +1,6 @@
+hello my self devaraajulu
+
+
 HI EVERYONE 
 THIS COMMAND USED TO STORE THE VALUES IN STRING 
 GOOD DAY
